@@ -9,7 +9,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>ALmacen</title>
+    <title>La Tentacion</title>
     {{-- fonts --}}
     <link rel="stylesheet" href="{{asset('css/font-awesome.css')}}">
     <link rel="stylesheet" href="{{asset('https://fonts.googleapis.com/css?family=Lato:100,300,400,700')}}">
